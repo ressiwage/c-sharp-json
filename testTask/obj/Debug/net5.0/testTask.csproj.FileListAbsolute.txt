@@ -1,0 +1,16 @@
+D:\devment\testTask\testTask\bin\Debug\net5.0\testTask.exe
+D:\devment\testTask\testTask\bin\Debug\net5.0\testTask.deps.json
+D:\devment\testTask\testTask\bin\Debug\net5.0\testTask.runtimeconfig.json
+D:\devment\testTask\testTask\bin\Debug\net5.0\testTask.runtimeconfig.dev.json
+D:\devment\testTask\testTask\bin\Debug\net5.0\testTask.dll
+D:\devment\testTask\testTask\bin\Debug\net5.0\ref\testTask.dll
+D:\devment\testTask\testTask\bin\Debug\net5.0\testTask.pdb
+D:\devment\testTask\testTask\obj\Debug\net5.0\testTask.csproj.AssemblyReference.cache
+D:\devment\testTask\testTask\obj\Debug\net5.0\testTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\devment\testTask\testTask\obj\Debug\net5.0\testTask.AssemblyInfoInputs.cache
+D:\devment\testTask\testTask\obj\Debug\net5.0\testTask.AssemblyInfo.cs
+D:\devment\testTask\testTask\obj\Debug\net5.0\testTask.csproj.CoreCompileInputs.cache
+D:\devment\testTask\testTask\obj\Debug\net5.0\testTask.dll
+D:\devment\testTask\testTask\obj\Debug\net5.0\ref\testTask.dll
+D:\devment\testTask\testTask\obj\Debug\net5.0\testTask.pdb
+D:\devment\testTask\testTask\obj\Debug\net5.0\testTask.genruntimeconfig.cache
